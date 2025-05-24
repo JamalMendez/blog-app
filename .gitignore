@@ -1,0 +1,29 @@
+# Directorios y archivos generados por Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Entorno virtual
+.venv/
+bin/
+include/
+lib/
+lib64/
+
+# Base de datos SQLite
+db.sqlite3
+
+# Archivos de IDE y configuración de proyecto
+.idea/
+pyvenv.cfg
+
+# Archivos de logs (si tuvieras)
+# *.log
+# logs/
+
+# Archivos de medios y estáticos (comúnmente ignorados, si los tienes)
+# /media/
+# /static_collected/
+
+*.env
